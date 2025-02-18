@@ -4,7 +4,7 @@ Weather Now is a simple weather web application built using Flask. It fetches re
 ## Live Demo
 https://sangeeth.pythonanywhere.com/
 
-Features
+<h2>Features</h2>
 
 Get real-time weather updates for any city.
 
