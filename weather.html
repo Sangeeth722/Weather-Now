@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class=" flex flex-col items-center">
+
+        <h1 class=" font-extrabold text-5xl">
+            {{ location }}
+        </h1>
+
+        <h2 class=" mt-2 font-semibold  mb-16">
+            {{ location_type }}
+        </h2>
+
+        <div class=" border-4 border-gray-300 p-4 rounded-lg flex flex-col justify-center mx-10">
+            <p>
+                Humidity : {{ humidity }}
+            </p>
+            <p>
+                Rain Intensity : {{rainIntensity}}mm
+            </p>
+            <p>
+                Temprature : {{ temprature }}C
+            </p>
+
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+</body>
+</html>
