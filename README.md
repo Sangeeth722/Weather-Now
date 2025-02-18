@@ -13,7 +13,7 @@ Displays temperature, humidity, and rain intensity.
 
 Built with Flask and TailwindCSS for a modern design.
 
-##API Used
+<h2>API Used</h2>
 
 <i>Tomorrow.io</i> Weather AP
 
