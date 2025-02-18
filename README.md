@@ -15,5 +15,5 @@ Built with Flask and TailwindCSS for a modern design.
 
 <h2>API Used</h2>
 
-<i>Tomorrow.io</i> Weather AP
+<i>Tomorrow.io</i> Weather API
 
